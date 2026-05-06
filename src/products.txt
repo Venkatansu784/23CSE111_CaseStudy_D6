@@ -1,1 +1,5 @@
-
+101,Laptop,Electronics,65000
+102,Phone,Electronics,30000
+103,Watch,Accessories,5000
+104,Shoes,Fashion,3000
+105,Headphones,Electronics,2000
