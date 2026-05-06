@@ -11,7 +11,7 @@ public class Order {
         this.items = new ArrayList<>(items);
     }
 
-    public void generateBillPDF() {
+    public void generateBill() {
         double total = 0;
         System.out.println("\n===== BILL =====");
         for (Product p : items) {
