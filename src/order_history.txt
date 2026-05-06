@@ -1,1 +1,17 @@
+===== ONLINE SHOPPING SYSTEM - ORDER REPORT =====
+
+Order ID: 1
+Customer ID: 1
+Customer Name: Case_Study
+
+Products Purchased:
+Laptop (Electronics) - 65000.0
+
+Total Amount: 65000.0
+
+Order Status: Confirmed
+Payment Status: Successful
+
+===============================================
+
 
