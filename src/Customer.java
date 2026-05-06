@@ -12,11 +12,6 @@ public class Customer {
         this.email = email;
         history = new ArrayList<>();
     }
-
-    public void register() {
-        System.out.println("Registered: " + username);
-    }
-
     public void login() {
         System.out.println("Logged in: " + username);
     }
