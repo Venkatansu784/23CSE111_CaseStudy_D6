@@ -3,8 +3,8 @@ Online Shopping System
 Team Members (with roles)
 - Karthik Sankisa – Implementation & Logic
 - M. Puri Jagannadh – UML Design
-- B. Sai Ashish – Testing & Output
-- R. Vedananda Reddy – Documentation & UML Design
+- B. Sai Ashish – Phase-1
+- R. Vedananda Reddy – UML Design & Implementation/Logic
 
 Problem Description
 This project simulates an online shopping system where users can register/login, browse products, apply filters, add or remove items from a cart, and perform checkout. The system dynamically calculates totals, generates a bill, and stores order history for future reference.
